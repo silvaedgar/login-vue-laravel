@@ -1,4 +1,7 @@
-# login-jwt
+# Login Vue Laravel
+.
+
+Perform a Login in Vue with Route Protection. Laravel Backend using Laravel Permission for Role Control and Permissions for Route Protection. PHP drivers file contains API accesses.
 
 ## Project setup
 ```
